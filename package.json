@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "ts-node swap-tokens.ts",
+    "start": "ts-node ./src/swap-tokens.ts",
     "flatten": "npx hardhat flatten > flattened.sol"
   },
   "author": "",

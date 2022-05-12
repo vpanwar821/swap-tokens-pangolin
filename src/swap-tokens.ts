@@ -1,5 +1,5 @@
 import { ethers } from "ethers";
-import swapTokensAbi from './abi/SwapTokens.json'
+import swapTokensAbi from '../abi/SwapTokens.json'
 import * as dotenv from 'dotenv';
 
 dotenv.config();
